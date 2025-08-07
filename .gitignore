@@ -7,9 +7,6 @@
 *.out
 *.elf
 
-# Build directory
-build/
-
 # Dependency files
 *.d
 
