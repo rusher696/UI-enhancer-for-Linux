@@ -5,7 +5,7 @@ CC = gcc
 CXX = g++
 CFLAGS = -Wall
 SRC_DIR = src
-BUILD_DIR = build
+BUILD_DIR = bin/build
 
 # Files to build
 C_SOURCES = $(SRC_DIR)/hw_boost.c $(SRC_DIR)/input_hook.c

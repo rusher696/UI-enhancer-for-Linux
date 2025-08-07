@@ -23,7 +23,7 @@ int main() {
                 std::system("sh ../tools/config_patcher.sh"); // Runs config patching file
                 break;
             case 3:
-                std::system("../build/hw_boost.elf"); // Runs .elf file
+                std::system("../bin/build/hw_boost.elf"); // Runs .elf file
                 break;
             case 4:
                 std::cout << "Goodbye!\n"; // Exit
