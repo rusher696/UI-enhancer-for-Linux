@@ -3,9 +3,8 @@
 *.obj
 
 # Executables
-*.exe
+*.exe # the hell why would a windows exe be here
 *.out
-*.elf
 
 # Dependency files
 *.d
