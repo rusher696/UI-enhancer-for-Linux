@@ -27,7 +27,7 @@ int main() {
         ch = getchar();  
         if (ch == 'r') {  
             printf("Running program...\n");  
-            system("../bin/build/hw_boost.elf");
+            system("../build/hw_boost.elf");
         } else if (ch == 'q') {  
             printf("Exiting input hook.\n");  
             break;  
