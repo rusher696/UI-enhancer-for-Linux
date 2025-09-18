@@ -19,3 +19,4 @@ config_patcher.sh  | Patcher for configurations
 - Full Makefile build pipeline
 - Portable and open-source
 - Fast and lightweight
+- DPKG installation 
